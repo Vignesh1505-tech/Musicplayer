@@ -22,7 +22,7 @@ body{
     height: 250px;
     width: 250px;
     background-image: URL(
-       "/asset/watermark.png");
+       "asset/watermark.png");
     background-size: cover;
     background-position: center;
     border-radius: 15%;
