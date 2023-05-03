@@ -22,20 +22,20 @@ let now_playing = document.querySelector(".now-playing");
           {
             name: "Engeyo Partha mayakkam",
             artist: "Broke For Free",
-            image: "/asset/watermark.png",
-            path: "/asset/Engeyo-Partha.mp3"
+            image: "asset/watermark.png",
+            path: "asset/Engeyo-Partha.mp3"
           },
           {
             name: "Thayaga Naan",
             artist: "Dada",
-            image: "/asset/dada.png",
-            path: "/asset/Thayaga-Naan-MassTamilan.dev.mp3"
+            image: "asset/dada.png",
+            path: "asset/Thayaga-Naan-MassTamilan.dev.mp3"
           },
           {
             name: "Kirutu kirutu",
             artist: "Dada",
-            image: "/asset/dada.png",
-            path: "/asset/Kirutu-Kirutu-MassTamilan.dev.mp3",
+            image: "asset/dada.png",
+            path: "asset/Kirutu-Kirutu-MassTamilan.dev.mp3",
           },
         ];
         
