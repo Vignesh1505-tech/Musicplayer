@@ -21,7 +21,7 @@ let now_playing = document.querySelector(".now-playing");
         let track_list = [
           {
             name: "Engeyo Partha mayakkam",
-            artist: "Broke For Free",
+            artist: "U1",
             image: "asset/watermark.png",
             path: "asset/Engeyo-Partha.mp3"
           },
